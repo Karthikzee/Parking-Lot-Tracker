@@ -1,6 +1,3 @@
-![alt text](FluviAppBEArch.png?raw=true)
-
-
 # Parking Lot Tracker
 Parking Lot Tracker cli app is to track parking spot data and retrieve parking spot by vehicle unique id.
 
